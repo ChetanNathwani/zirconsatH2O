@@ -1,0 +1,26 @@
+﻿Mineral,Temperature,SiO2,DZr,error,Source
+Amphibole,1010,57.09,0.331,0.002,Nandedkar et al. 2016
+Amphibole,1010,56.57,0.372,0.050,Nandedkar et al. 2017
+Amphibole,950,63.21,0.356,0.017,Nandedkar et al. 2018
+Amphibole,920,65.21,0.488,0.072,Nandedkar et al. 2019
+Amphibole,890,69.06,0.719,0.186,Nandedkar et al. 2020
+Amphibole,860,69.76,1.012,0.332,Nandedkar et al. 2021
+Amphibole,830,72.51,1.282,0.328,Nandedkar et al. 2022
+Amphibole,780,74.77,2.413,0.453,Nandedkar et al. 2023
+Clinpyroxene,980,60.00,0.10,,Bedard (2014)
+Clinpyroxene,950,63.00,0.15,,Bedard (2014)
+Clinpyroxene,920,65.00,0.18,,Bedard (2014)
+Clinpyroxene,900,68.00,0.20,,Bedard (2014)
+Clinpyroxene,830,70.00,0.25,,Bedard (2014)
+Clinpyroxene,750,75.00,0.33,,Bedard (2014)
+Ilmenite,1150,48.00,0.29,,GERM
+Ilmenite,1100,50.00,0.33,,GERM
+Ilmenite,900,68.00,0.80,,GERM
+Ilmenite,850,72.00,1.40,,GERM
+Ilmenite,750,77.00,2.00,,GERM
+Biotite,1200,45.00,0.020,,GERM
+Biotite,1150,50.00,0.025,,GERM
+Biotite,900,68.00,0.400,,GERM
+Biotite,850,72.00,0.500,,GERM
+Biotite,750,77.00,0.800,,GERM
+Magnetite,900,62.00,0.159,,GERM
